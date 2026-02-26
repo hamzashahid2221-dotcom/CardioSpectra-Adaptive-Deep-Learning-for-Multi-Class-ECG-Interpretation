@@ -149,7 +149,7 @@ It contributes toward:
 ## 👨‍💻 Author
 
 **Hamza Shahid**  
-Bachelor of Biomedical Engineering (with Distinction)  
+Bachelor of Biomedical Engineering (Biomedical Engineering)  
 University of Engineering & Technology (UET), Lahore
 
 🔍 Research Interests:  
